@@ -39,9 +39,3 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  💙 <i>"Every expert was once a beginner."</i>
-</p>
