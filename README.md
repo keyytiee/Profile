@@ -12,10 +12,10 @@
 
 ### 🌱 About Me
 
-- 🎓 Currently studying Information Technology at Mindanao State University - Iligan Institute of Technology.
-- 💻 Interested in database management.
-- 📚 Learning SQL's and exploring new technologies.
-- ✨ Always open to learning and improving my skills.
+- Currently studying Information Technology at Mindanao State University - Iligan Institute of Technology.
+- Interested in database management.
+- Learning SQL's and exploring new technologies.
+- Always open to learning and improving my skills.
 
 ### 🛠️ Languages and Tools
 
@@ -26,9 +26,9 @@
 
 ### 📂 Projects
 
-- 💰 **MoneyMap** — A personal expense and savings tracker.
-- 💧 **Tubigan** — A water delivery request and monitoring system.
-- 🏪 **TindaTrack** - A sari-sari store tracking system designed to help store owners monitor inventory, record sales, track expenses, and manage daily business transactions.
+- **MoneyMap** — A personal expense and savings tracker.
+- **Tubigan** — A water delivery request and monitoring system.
+- **TindaTrack** - A sari-sari store tracking system designed to help store owners monitor inventory, record sales, track expenses, and manage daily business transactions.
 
 ### 📫 Connect With Me
 
