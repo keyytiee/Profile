@@ -5,9 +5,7 @@
 <h3 align="center">🎓 BS Information Technology Student</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! 💙
-  <br>
-  Exploring technology, learning to code, and building my skills one project at a time.
+  Welcome to my GitHub profile! 
 </p>
 
 ---
@@ -24,7 +22,6 @@
 <p align="left">
   <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
   <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
