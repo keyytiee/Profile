@@ -1,8 +1,8 @@
 
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Karyn! 👋</h1>
+<h1 align="center">Hi there, I'm Karyn!</h1>
 
-<h3 align="center">🎓 BS Information Technology Student</h3>
+<h3 align="center">3rd Year BS Information Technology Student</h3>
 
 <p align="center">
   Welcome to my GitHub profile! 
